@@ -10,3 +10,4 @@ public class Reverse {
 		System.out.println("Reversed String: "+sb.reverse());
 	}
 }
+//Reversed String: zyxwvutsrqponmlkjihgfedcba

@@ -1,4 +1,4 @@
-//7. Write a Java Program to print factorial of a given number using any loop.
+//9. Write a Java Program to print factorial of a given number using any loop.
 package Assignment1;
 import java.util.*;
 public class CLIFUQ9 {
